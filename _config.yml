@@ -5,4 +5,4 @@ layout: default
 github:
   is_project_page: false
 
-theme: jekyll-theme-leap-day
+theme: jekyll-theme-modernist
