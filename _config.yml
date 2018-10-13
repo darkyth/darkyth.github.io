@@ -1,5 +1,5 @@
-title: testing config
-description: test description
+title: Title
+description: Description
 show_downloads: false
 theme: jekyll-theme-hacker
 layout: default
