@@ -1,6 +1,8 @@
-title: testing config
+title: Title
+description: Description
 show_downloads: false
-theme: jekyll-theme-hacker
 layout: default
 github:
   is_project_page: false
+
+theme: jekyll-theme-hacker
