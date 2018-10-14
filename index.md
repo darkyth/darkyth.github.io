@@ -1,7 +1,5 @@
 ---
 layout: default
 ---
-***
----
-___
+<p></p>
 # Hello World
